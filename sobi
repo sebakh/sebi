@@ -10,7 +10,7 @@ lern-debug.log*..
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 rt
 # Runtime data///
-pidsmmm
+pidsmmm///
 *.pid..
 *.seed Runtime data
 *.pid.lock///zz
