@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 lern-debug.log*..Wf
 //hj
-# Diagnostic reports (https://nodejs.org/api/report.html)
+# Diagnostic reports (https://nodejs.org/api/report.html)c
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 rt
 # Runtime data///h
