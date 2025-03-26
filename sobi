@@ -18,7 +18,7 @@ pidsmmm///v.jdrffflghid
 lib-cov
 
 # Coverage directory used by tools like istanbul
-coverage
+coveragem
 *.lcov
 
 # nyc test coverage
