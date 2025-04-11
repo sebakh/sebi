@@ -19,7 +19,7 @@ lib-covnm
 
 # Coverage directory used by tools like istanbulgff
 coveragemcd
-*.lcovb
+*.lcovbn
 
 # nyc test coverage
 .nyc_output
